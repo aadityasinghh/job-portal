@@ -1,2 +1,4 @@
-# mern-job-portal-website
-![mern-job-portal-website](/job-portal/src//assets/MERN%20STACK.png)
+JOB PORTAL 
+Made using React,Express, Node, MongoDB and tailwindcss
+This job portal comes integrated with an AI chatBot that will answer and guide the applicant through every proccess
+
