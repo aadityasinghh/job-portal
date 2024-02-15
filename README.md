@@ -12,4 +12,4 @@
 7. npm i
 8. nodemon index.js
 
-Find the link of video demo here [Drive]([targetURL](https://drive.google.com/file/d/1w33xJ1h2-x94T-_TxhVelWuYGj5Yx2kR/view?usp=sharing)https://drive.google.com/file/d/1w33xJ1h2-x94T-_TxhVelWuYGj5Yx2kR/view?usp=sharing)
+Find the link of video demo here [Drive](https://drive.google.com/file/d/1w33xJ1h2-x94T-_TxhVelWuYGj5Yx2kR/view?usp=sharing)
